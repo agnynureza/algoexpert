@@ -31,6 +31,7 @@ class BinaryTree {
       helper(root.left, newRuningSums, sums);
       helper(root.right, newRuningSums, sums);
   }
+  
   // Do not edit the lines below.
   exports.BinaryTree = BinaryTree;
   exports.branchSums = branchSums;
