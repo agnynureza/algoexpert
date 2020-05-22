@@ -2,7 +2,6 @@
 best : O(N) time | O(N) space
 worst : O(n^2) time | O(1) space 
 average : O(n^2) time | O(1) space
-
 */
 
 function bubble_sort(array){
